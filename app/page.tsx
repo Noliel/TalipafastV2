@@ -33,7 +33,7 @@ export default function Home() {
         </span>
       </h1>
       <p className='mt-6 text-lg max-w-prose text-muted-foreground'>
-        Welcome to Talipafast, we're happy to serve!
+        Welcome to Talipafast&apos; we&lsquo;re happy to serve&rsquo;
       </p>
     <div className='flex flex-col sm:flex-row gap-4 mt-6'>
       <Link href='/products' className={buttonVariants()}> Our Fresh Products</Link>
